@@ -2,30 +2,6 @@
 
 This project is a showcase of a Flutter mobile application built using the Model-View-ViewModel (MVVM) architecture. The app uses the Provider package for state management, ensuring a clean, scalable, and maintainable codebase.
 
-## Directory Structure
-
-lib
-├── src
-│   ├── model
-│   │   ├── jokes_model.dart
-│   │   ├── jokes_model.g.dart
-│   ├── service
-│   │   ├── api_service.dart
-│   │   ├── joke_service.dart
-│   ├── view
-│   │   ├── screens
-│   │   │   ├── home_screen.dart
-│   │   ├── widget
-│   │   │   ├── home
-│   │   │   │   ├── joke_list_widget.dart
-│   │   │   │   ├── joke_not_found_widget.dart
-│   │   │   │   ├── custom_error_widget.dart
-│   │   │   │   ├── loading_widget.dart
-│   ├── viewmodel
-│   │   ├── joke_viewmodel
-│   │   │   ├── joke_viewmodel.dart
-├── main.dart
-
 # Features
 
 ## MVVM Architecture: 
